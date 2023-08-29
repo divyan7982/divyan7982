@@ -26,12 +26,12 @@ I'm a creative and detail-oriented web developer with a knack for building elega
 - Version Control: Git, GitHub
 - Other: UI/UX Design, Responsive Design
 
+  
 💼 **Portfolio Highlights**
 
-- [EXPENSE TRACKER]([https://project-link.com](https://expensetracker223.netlify.app/)) - Expense Tracker is a web application that helps users efficiently manage their finances by recording and organizing expenses. .
-- [WEATHER-APP]([https://project-link.com](https://forecastfind.netlify.app/)) - The Weather App is a user-friendly and intuitive web or mobile application that provides real-time weather information for any location worldwide.
-- [DC-SOCIAL]([https://project-link.com](https://dcsocial.netlify.app/)) - It is a social media website and I've created the frontend part, or UI, of a social media website for my project.
-
+- [EXPENSE TRACKER](https://expensetracker223.netlify.app/) - Expense Tracker is a web application that helps users efficiently manage their finances by recording and organizing expenses.
+- [WEATHER-APP](https://forecastfind.netlify.app/) - The Weather App is a user-friendly and intuitive web or mobile application that provides real-time weather information for any location worldwide.
+- [DC-SOCIAL](https://dcsocial.netlify.app/) - It is a social media website, and I've created the frontend part, or UI, of a social media website for my project.
 
 🔭 **Currently Working On**
 
