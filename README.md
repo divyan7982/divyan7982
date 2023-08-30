@@ -8,7 +8,7 @@ Passionate Web Developer | React Enthusiast | Tech Explorer
 
 ![Profile GIF](https://tenor.com/view/coding-gif-24297652.gif)
 
-🌐 [Portfolio]([https://your-portfolio-link.com](https://divyan2708.netlify.app/)) | 📧 [Email](mailto:divyanshuchoubey05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/divyanshu-choubey-a1963b214/) | [Twitter](https://twitter.com/Divyans14287217)
+🌐 [Portfolio](https://divyan2708.netlify.app/) | 📧 [Email](mailto:divyanshuchoubey05@gmail.com) | [LinkedIn](https://www.linkedin.com/in/divyanshu-choubey-a1963b214/) | [Twitter](https://twitter.com/Divyans14287217)
 
 </div>
 
